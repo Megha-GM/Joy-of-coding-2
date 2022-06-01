@@ -1,3 +1,5 @@
+//PROGRAM TO SEPERATE VOWELS AND CONSONANTS IN A STRING
+
 #include<stdio.h>
 
 int main(){
